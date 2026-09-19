@@ -33,22 +33,7 @@
 
 </body>
 </html>
- <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
+
 <style>
 body{
 background:url('happy.jpg') no-repeat center center / cover fixed;
